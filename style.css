@@ -237,3 +237,6 @@ width: 1440px;
 height: 1486px;
 background: rgb(244, 244, 244);
 }
+nav{
+display: flex;
+}
