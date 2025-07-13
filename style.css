@@ -1,0 +1,10 @@
+.container{
+width:75% ;
+margin:  auto;
+}
+.ul-1{
+display: flex;
+}
+nav{
+display: flex;
+}
