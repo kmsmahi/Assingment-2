@@ -409,3 +409,112 @@ margin: 10px  0 0 89.5px;
 margin: 54px 156px 0 0;
 gap:24px;
 }
+/* .foot{
+width:75% ;
+margin: 71px 117px 75px 111px;
+height: 455px;
+background: rgb(255, 242, 241);
+} */
+ footer{
+width: 75%;
+margin: auto/;
+ }
+.send{
+width: 683px;
+height: 162px;
+
+
+}
+/* .foot-h2{
+width: 400px;
+height: 45px;
+color: rgb(31, 31, 31);
+font-family: Poppins;
+font-size: 20px;
+font-weight: 600;
+text-align: left;
+margin: 146px 455.5px 0 455.5px; */
+}
+.foot{
+width: 1212px;
+height: 455px;
+background: rgb(255, 242, 241);
+margin: 71px 0 75px 228px;
+border-radius: 20px;
+}
+.foot-p{
+width: 323px;
+height: 24px;
+color: rgb(112, 112, 112);
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+text-align: left;
+margin: 4px 455.5px 16px 435.5px;
+}
+#e1{
+width: 283px;
+height: 43px;
+margin: 0 265px 147px 265px;
+}
+
+
+
+/* <h1 class="foot-h2">LET'S STAY IN TOUCH</h1>
+                    <p class="foot-p">Get updates on sales specials and more </p>
+                        <input type="email" id="e1" placeholder="Enter your email"> */
+
+footer{
+width: 75%;
+margin: auto;
+}
+.touch{
+width: 453px;
+height: 142px;
+background: rgb(254, 234, 233);
+padding: 137px 365px ;
+margin: 71px 0;
+border-radius: 20px;
+}
+.touch-h{
+width: 400px;
+height: 15px;
+color: rgb(31, 31, 31);
+font-family: Poppins;
+font-size: 30px;
+font-weight: 600;
+text-align: left;
+}
+.touch-p{
+width: 323px;
+height: 24px;
+color: rgb(112, 112, 112);
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+text-align: left;
+}
+#e1{
+width: 683px;
+height: 70px;
+margin: 0 0 0 0;
+border: none;
+}
+
+.touch button{
+width: 157px;
+height: 73px;
+background: linear-gradient(180.00deg, rgb(255, 88, 155) 0.004%,rgb(255, 19, 111) 100.004%);
+}
+.touch button span{
+width: 31px;
+height: 26px;
+color: rgb(255, 255, 255);
+font-family: Poppins;
+font-size: 24px;
+font-weight: 500;
+text-align: left;
+}
+.touch-input{
+display: flex;
+}
